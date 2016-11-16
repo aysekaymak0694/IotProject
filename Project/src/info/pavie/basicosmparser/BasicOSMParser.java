@@ -18,15 +18,19 @@
  */
 
 package info.pavie.basicosmparser;
-import info.pavie.basicosmparser.controller.*;
-import info.pavie.basicosmparser.model.*;
-import info.pavie.basicosmparser.controller.CSVExporter;
-import info.pavie.basicosmparser.controller.OSMParser;
-
 import java.io.File;
 import java.io.IOException;
 
 import org.xml.sax.SAXException;
+
+import info.pavie.basicosmparser.controller.CSVExporter;
+import info.pavie.basicosmparser.controller.OSMParser;
+
+
+
+
+
+
 
 /**
  * This class is a simple command line interface.
